@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="openai_provides_api_access_to_developers_for_integrating_chatgpt_into_their_applications_or_systems">OpenAI provides API access to developers for integrating ChatGPT into their applications or systems.</string>
+    <string name="text">text</string>
+    <string name="todo">TODO</string>
+    <string name="chat_ai">Chat AI</string>
+    <string name="start_chat">Start chat</string>
+    <string name="chatbot_nsolve_your_queries_with_smartbot">֍ Chatbot\nSolve Your queries with smartbot</string>
+    <string name="search_image">search image</string>
+</resources>
